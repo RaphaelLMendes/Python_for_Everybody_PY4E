@@ -6,6 +6,7 @@ To do this look for lines that start with “From”, then look for the third wo
 At the end of the program print out the contents of your dictionary (order does not matter).
 
 '''
+
 # opening the file and creating a handler object
 fhand = open('files\mbox-short.txt', 'r')
 
