@@ -5,7 +5,7 @@ have come from each email address, and print the dictionary.
 
 '''
 # opening the file and creating a handler object
-fhand = open('files\mbox-short.txt', 'r')
+fhand = open('mbox-short.txt', 'r')
 
 # creating the disctionairy to be able to count occurrences
 count = {}
